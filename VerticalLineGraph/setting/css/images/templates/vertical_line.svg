@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<svg width="120" height="100" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m10.10417,-9.47917l99.58334,0l0,118.95834l-99.58334,0l0,-118.95834z" fill="#FFF" id="svg_2" transform="rotate(90 59.8958 50)"/>
+  <path d="m22.313486,76.153513l10.448415,19.291173l20.896829,-57.873519l18.28473,38.582346l27.427079,-70.734292" fill="#000000" fill-opacity="0" id="svg_13" stroke="#24B5CC" stroke-linecap="round" stroke-linejoin="round" transform="rotate(90 60.842 50.4319)"/>
+  <circle cx="73.702797" cy="43.248673" fill="#24B5CC" id="svg_14" r="1.659722" transform="rotate(90 73.7028 43.2487)"/>
+  <circle cx="35.120446" cy="61.533391" fill="#24B5CC" id="svg_15" r="1.659722" transform="rotate(90 35.1204 61.5334)"/>
+  <circle cx="15.829279" cy="22.351847" fill="#24B5CC" id="svg_16" r="1.659722" transform="rotate(90 15.8293 22.3518)"/>
+  <circle cx="35.120446" cy="11.903432" fill="#24B5CC" id="svg_17" r="1.659722" transform="rotate(90 35.1204 11.9034)"/>
+  <circle cx="105.85475" cy="88.960481" fill="#24B5CC" id="svg_18" r="1.659722" transform="rotate(90 105.855 88.9605)"/>
+  <path d="m22.158916,35.903389l22.818189,57.678721l24.160433,-88.736489l32.213916,93.173339" fill="#000000" fill-opacity="0" id="svg_7" stroke="#F6A623" stroke-linecap="round" stroke-linejoin="round" transform="rotate(90 61.7552 51.4323)"/>
+  <circle cx="77.284095" cy="11.836029" fill="#F6A623" id="svg_8" r="1.659722" transform="rotate(90 77.2841 11.836)"/>
+  <circle cx="19.605366" cy="34.65422" fill="#F6A623" id="svg_9" r="1.659722" transform="rotate(90 19.6054 34.6542)"/>
+  <circle cx="108.34188" cy="58.814647" fill="#F6A623" id="svg_10" r="1.659722" transform="rotate(90 108.342 58.8146)"/>
+  <circle cx="15.168535" cy="91.028563" fill="#F6A623" id="svg_11" r="1.659722" transform="rotate(90 15.1685 91.0286)"/>
+  <path d="m-33.453134,49.588549l87.520842,0l0,0.989581l-87.520842,0l0,-0.989581z" fill="#B3B3B3" id="svg_4" transform="rotate(90 10.3073 50.0833)"/>
+  <path d="m60.135052,-44.157987l0.82987,0l0,101.47499l-0.82987,0l0,-101.47499z" fill="#B3B3B3" id="svg_5" transform="rotate(90 60.55 6.57951)"/>
+ </g>
+</svg>
