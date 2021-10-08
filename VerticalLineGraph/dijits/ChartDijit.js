@@ -543,6 +543,10 @@ define([
         // increase grid right
         this.chartUtils.defultGrid.right = 20;
         this._settingByGrid(config, option, prevRatio);
+        // configure chart for realtime update as slider bar is adjusted, turn off slider data filtering which had been causing weird line redraws
+        option.dataZoom[0].realtime = option.dataZoom[1].realtime = true;
+        option.dataZoom[0].filterMode = option.dataZoom[1].filterMode = 'none';
+        this.chart.setOption(option, false);
 
         return true;
       };
@@ -585,6 +589,10 @@ define([
 
         this.chart.setOption(option, true);
         this._settingByGrid(config, option, prevRatio);
+        // configure chart for realtime update as slider bar is adjusted, turn off slider data filtering which had been causing weird line redraws
+        option.dataZoom[0].realtime = option.dataZoom[1].realtime = true;
+        option.dataZoom[0].filterMode = option.dataZoom[1].filterMode = 'none';
+        this.chart.setOption(option, false);
 
         return true;
       };
